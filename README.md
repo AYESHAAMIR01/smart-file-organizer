@@ -115,19 +115,19 @@ Below are example screenshots showing the script in action. You can add your own
 
 Replace this with a screenshot of the terminal showing the summary after running the script.
 
-![Terminal output showing organization summary](screenshots/terminal-output.png)
+![Terminal output showing organization summary](screenshot/terminal-output.png)
 
 ### Before Organizing
 
 Replace this with a screenshot of the folder before running the script.
 
-![Folder before organizing](screenshots/before-organizing.png)
+![Folder before organizing](screenshot/before-organizing.png)
 
 ### After Organizing
 
 Replace this with a screenshot of the folder after running the script.
 
-![Folder after organizing](screenshots/after-organizing.png)
+![Folder after organizing](screenshot/after-organizing.png)
 
 ## Important Safety Note
 
